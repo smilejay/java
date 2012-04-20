@@ -1,0 +1,146 @@
+Manifest-Version: 1.0
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Eclipse-LazyStart: true
+Bundle-SymbolicName: org.eclipse.datatools.enablement.mysql; singleton
+ :=true
+Require-Bundle: org.eclipse.emf.ecore;bundle-version="[2.2.0,3.0.0)",o
+ rg.eclipse.core.runtime;bundle-version="[3.2.0,4.0.0)",com.ibm.icu;bu
+ ndle-version="[3.4.0,5.0.0)",org.eclipse.datatools.modelbase.dbdefini
+ tion;bundle-version="[0.9.0,1.5.0)",org.eclipse.datatools.modelbase.s
+ ql;bundle-version="[0.9.0,1.5.0)",org.eclipse.datatools.connectivity.
+ sqm.core;bundle-version="[0.9.0,1.5.0)",org.eclipse.datatools.connect
+ ivity;bundle-version="[1.0.1,2.0.0)"
+Bundle-Activator: org.eclipse.datatools.enablement.mysql.MysqlPlugin
+Export-Package: org.eclipse.datatools.enablement.internal.mysql.connec
+ tion,org.eclipse.datatools.enablement.mysql;x-internal:=true,org.ecli
+ pse.datatools.enablement.mysql.catalog;x-internal:=true,org.eclipse.d
+ atatools.enablement.mysql.catalog.loaders,org.eclipse.datatools.enabl
+ ement.mysql.ddl;x-internal:=true,org.eclipse.datatools.enablement.mys
+ ql.ddl.shared
+Bundle-Version: 1.0.2.v200906020900
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %providerName
+Bundle-Name: %pluginName
+Bundle-ManifestVersion: 2
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogSchem
+ a.class
+SHA1-Digest: 4+LmmxG0jTnsQtTowFTqsptge+U=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/MySqlDdlGenerator.cla
+ ss
+SHA1-Digest: /v0zp1zG5+PNlQeyBATT4huuF8c=
+
+Name: icons/jdbc_16.gif
+SHA1-Digest: N16kaLk8rTSVM807t/TyQUGy/6M=
+
+Name: org/eclipse/datatools/enablement/internal/mysql/connection/MySQL
+ PasswordPropertiesPersistenceHook.class
+SHA1-Digest: hPkBW2U6+QfZSwOsOBg9txOE2Js=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/MySqlDdlScript.class
+SHA1-Digest: Cb0sUUTa0sp6Io7vXyTQajTKXWs=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogForei
+ gnKey.class
+SHA1-Digest: VCPJGG/SyXZgpSDyMfEudwfN/7E=
+
+Name: plugin.properties
+SHA1-Digest: Upeldka24hKF7C+lrpx3ZEvwqsU=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlRout
+ ineLoader.class
+SHA1-Digest: y1SyI1W8SZ0NCQf5x3m7Nlqaso8=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlTabl
+ eColumnLoader.class
+SHA1-Digest: Jx5cyFOWfiMjs9/aPh5/ubwrQDk=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/MySqlDdlBuilder.class
+SHA1-Digest: sDE/QWrC9iUANCfN5blalhnJPh4=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogProvi
+ der.class
+SHA1-Digest: VaV7lVxLXYCKYX0gtFVh6gyQ4GI=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlTabl
+ eLoader$MySqlTableFactory.class
+SHA1-Digest: AWzF6crm4aAfEZbNopw7zf5xDbI=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlTabl
+ eConstraintLoader.class
+SHA1-Digest: FoisdzB/aT4lj0ALdcKZ5e1Fj7k=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlTabl
+ eLoader.class
+SHA1-Digest: tncm8bswYWslbkzV46aL9wH/jZY=
+
+Name: plugin.xml
+SHA1-Digest: Y+HcM5mt6UuwNbTRWMOgCnBcM6I=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/shared/MySqlDdlBuilde
+ rHelper$dummyEngineeringCallBack.class
+SHA1-Digest: x67IAKxJ6Klr1CueinqY8mxpVV4=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogDatab
+ ase.class
+SHA1-Digest: 29QGwWtt3Xqj2mJpOU0IHcCcrco=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogPrima
+ ryKey.class
+SHA1-Digest: EOd+Kz0c9M8xiDWJdJ7RlzvoRtA=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogTable
+ .class
+SHA1-Digest: A+OUJXKGsjkeT2nWbtEP2eZzYjU=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/shared/MySqlDdlGenera
+ torHelper.class
+SHA1-Digest: C2bWmbvCVboM05cne6H2kuGSJBk=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogIndex
+ .class
+SHA1-Digest: SKWr06o71ISI14K5/TWYa+2Zuu4=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/shared/MySqlDdlGenera
+ torHelper$SingletonOptionDependency.class
+SHA1-Digest: X9Pr4ZKwtKMUZ9HYhcqyv2dcZ5o=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/shared/MySqlDdlBuilde
+ rHelper.class
+SHA1-Digest: g3b+yRwNbOAw3Us1VYq82chnudo=
+
+Name: about.html
+SHA1-Digest: iF3gxVRlaf51Lmh9sscsUMaGyhM=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlSche
+ maLoader.class
+SHA1-Digest: E2kh6IaqSWf+hrH+GHdAjFZIEu8=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlTabl
+ eIndexLoader.class
+SHA1-Digest: W8ueE7kd+GlzxMtkx7mTASTI1EA=
+
+Name: org/eclipse/datatools/enablement/mysql/MysqlPlugin.class
+SHA1-Digest: MNzOMVjEH1Wq2maAjG0tvazCny8=
+
+Name: org/eclipse/datatools/enablement/internal/mysql/connection/IMySQ
+ LConnectionProfileConstants.class
+SHA1-Digest: 3+R5shC5RsTt9VC+IX09mPtU8QA=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogColum
+ n.class
+SHA1-Digest: yQ6G0rRbKik5amJkhP6CqS9eenU=
+
+Name: org/eclipse/datatools/enablement/internal/mysql/connection/JDBCM
+ ySQLJDBCConnection.class
+SHA1-Digest: kX9k61mrzwyY9ILeafP/zrlCHJE=
+
+Name: org/eclipse/datatools/enablement/internal/mysql/connection/JDBCM
+ ySQLConnectionFactory.class
+SHA1-Digest: JvJuW5IUQoP3QWqu8OqZ+ITDxk8=
+

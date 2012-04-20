@@ -1,0 +1,8 @@
+ws_product_attribute_draft 表standard_attr_desc字段
+IU# I# 开头 后面空格少于2个的视为垃圾数据 打印相应的product_id和错误的字符串
+
+MyalibabaUtils处理IU#开头的情况
+MyalibabaUtils2处理I#开头的情况
+
+两个类只有isOkSingle方法略有不同
+

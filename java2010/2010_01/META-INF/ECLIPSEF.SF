@@ -1,0 +1,125 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: XWu/PPI0B6+9lZJ0nqHu5p4Bi2s=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: AGizZwIdQQZ/QSV4eC1EgKtJfso=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogSchem
+ a.class
+SHA1-Digest: 0LjXSxL7Jbg1J0HO9GAdasHPbgo=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/MySqlDdlGenerator.cla
+ ss
+SHA1-Digest: 8WhZAM7taqVKBvvDltt99D39RNM=
+
+Name: icons/jdbc_16.gif
+SHA1-Digest: X7wLDHnDzpcmov6Niw6Gzo9TBnU=
+
+Name: org/eclipse/datatools/enablement/internal/mysql/connection/MySQL
+ PasswordPropertiesPersistenceHook.class
+SHA1-Digest: Ztnbz8DYjjz323LITYlO+xJA5hw=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogForei
+ gnKey.class
+SHA1-Digest: Q+83BchaTMERs3TfaA3m93HiEpw=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/MySqlDdlScript.class
+SHA1-Digest: qMhYrPq/O7IzBeeOJXhgp16g8o4=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/MySqlDdlBuilder.class
+SHA1-Digest: dWsQ1ukrZJwMM10lhvCidp5rLWw=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlTabl
+ eColumnLoader.class
+SHA1-Digest: MwyajZD422yCWaPNvU07/Y3FqS8=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlRout
+ ineLoader.class
+SHA1-Digest: LVdL14fKkwVUSqco2d8vlrsjApA=
+
+Name: plugin.properties
+SHA1-Digest: dzSPLqJw6QQGShwikj9pC+q/xDE=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlTabl
+ eLoader$MySqlTableFactory.class
+SHA1-Digest: 7PBIZSfO24zYVCCeSTLpbDHD6jM=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogProvi
+ der.class
+SHA1-Digest: 9OhnD7XVke4N4GSJ5A2KW7ufM4U=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlTabl
+ eConstraintLoader.class
+SHA1-Digest: CuH8zue6z3ObX18Wm5wPo6VfFS4=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlTabl
+ eLoader.class
+SHA1-Digest: wwfsz+aRVcYAIq24e9zItrk6/fU=
+
+Name: plugin.xml
+SHA1-Digest: DocmsAR4Qg4lPl4RP1g/Lr9aSg8=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/shared/MySqlDdlBuilde
+ rHelper$dummyEngineeringCallBack.class
+SHA1-Digest: Po7ifPz23YdRNJndUC1QHHSK5x4=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogDatab
+ ase.class
+SHA1-Digest: diQrYYdbQ85xKbJOqbD7PicDLtQ=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogPrima
+ ryKey.class
+SHA1-Digest: QorWrOVTtELJg9aUoacW+mHVHqc=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogTable
+ .class
+SHA1-Digest: 6LSgzwJrKwrULgeFQiOBVQvr4w8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/shared/MySqlDdlGenera
+ torHelper.class
+SHA1-Digest: EtzninQEnNPf5lAjMDUx+aVC3CM=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogIndex
+ .class
+SHA1-Digest: mbeHXPwK470xRM/w9/D8jtqxj6g=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/shared/MySqlDdlGenera
+ torHelper$SingletonOptionDependency.class
+SHA1-Digest: MS3DDunz85FyIb+7avUkY7Zj79w=
+
+Name: about.html
+SHA1-Digest: /NwQo9G7+RmiBTa5Ig5wzaLC5Vg=
+
+Name: org/eclipse/datatools/enablement/mysql/ddl/shared/MySqlDdlBuilde
+ rHelper.class
+SHA1-Digest: Pl7t3Vi37OX57ZhFoSybtvk0S6w=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlSche
+ maLoader.class
+SHA1-Digest: oEJsOerxpN1XdtkPBOaU2uCnMUA=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/loaders/MySqlTabl
+ eIndexLoader.class
+SHA1-Digest: P+EUYUQnKU4wMUalMy8j8gI49gI=
+
+Name: org/eclipse/datatools/enablement/mysql/MysqlPlugin.class
+SHA1-Digest: QVjpUkBFbzFr2q0XyWpgGmi+Nnk=
+
+Name: org/eclipse/datatools/enablement/internal/mysql/connection/IMySQ
+ LConnectionProfileConstants.class
+SHA1-Digest: ipagv4ATwxNUZw3PCjg7Obj3a+s=
+
+Name: org/eclipse/datatools/enablement/mysql/catalog/MySqlCatalogColum
+ n.class
+SHA1-Digest: c6GQt1m/kbB15g0QrmNOLx3ZXZE=
+
+Name: org/eclipse/datatools/enablement/internal/mysql/connection/JDBCM
+ ySQLJDBCConnection.class
+SHA1-Digest: lR5c9JWdDo7AEkEjswI5bI5JwE8=
+
+Name: org/eclipse/datatools/enablement/internal/mysql/connection/JDBCM
+ ySQLConnectionFactory.class
+SHA1-Digest: JemtAJB6ZRq0WUWo6xKLh8AzMPw=
+
