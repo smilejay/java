@@ -1,7 +1,9 @@
 package javapuzzlers.src;
 
 /*
- * summary: check an integer is an odd number or not.	
+ * @author: Jay
+ * @date: Nov 5, 2013
+ * @description: check an integer is an odd number or not.	
  */
 
 public class Odd {

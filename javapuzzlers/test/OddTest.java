@@ -1,6 +1,3 @@
-/**
- * 
- */
 package javapuzzlers.test;
 
 import static org.junit.Assert.*;
@@ -10,8 +7,9 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 /**
- * @author Jay
- * 
+ * @author: Jay
+ * @date: Nov 5, 2013
+ * @description: Unit test for Odd class.
  */
 public class OddTest {
 	
