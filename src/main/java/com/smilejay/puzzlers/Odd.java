@@ -1,4 +1,4 @@
-package javapuzzlers.src;
+package com.smilejay.puzzlers;
 
 /*
  * @author: Jay
