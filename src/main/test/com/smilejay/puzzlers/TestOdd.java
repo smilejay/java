@@ -1,17 +1,18 @@
-package javapuzzlers.test;
+package com.smilejay.puzzlers;
 
 import static org.junit.Assert.*;
-import javapuzzlers.src.Odd;
 
 import org.junit.BeforeClass;
 import org.junit.Test;
+
+import com.smilejay.puzzlers.Odd;
 
 /**
  * @author: Jay
  * @date: Nov 5, 2013
  * @description: Unit test for Odd class.
  */
-public class OddTest {
+public class TestOdd {
 	
 	int odd1 = 1;
 	int odd2 = -1;
