@@ -26,13 +26,13 @@ public class DbConnect {
 	       System.out.println(ce);
 	     }
 	     try {
-	       String url = "jdbc:oracle:thin:@10.20.36.21:1521:ointest";
-	       String user = "alibaba";
-	       String password = "deYcR7facWSJtCuDpm2r";
+	       String url = "jdbc:oracle:thin:@192.168.122.222:1521:ointest";
+	       String user = "hellouser";
+	       String password = "123456";
 	      // jdbc:oracle:thin:@MyDbComputerNameOrIP:1521:ORCL", sUsr, sPwd
 	       /*
-	        # orcale Óï·¨:   
-# Class.forName("oracle.jdbc.driver.OracleDriver");  
+	        # orcale Óï·¨:
+# Class.forName("oracle.jdbc.driver.OracleDriver");
 # Connection con = DriverManager.getConnection("jdbc:oracle:thin:@host:port:databse","user","password");  
 	        */
 	       Connection con = DriverManager.getConnection(url,user,password);
